@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501907035879",
+    "firebase_url": "https://tinze-d74a3.firebaseio.com",
+    "project_id": "tinze-d74a3",
+    "storage_bucket": "tinze-d74a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501907035879:android:be53d1ae4fcb95f9",
+        "android_client_info": {
+          "package_name": "com.example.tumusime.tinze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501907035879-ns9tpa0u2vtgqgjt74239krtdo3ulasa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tumusime.tinze",
+            "certificate_hash": "dfa3e95eac52f1819f057af5dcce47f4516d9381"
+          }
+        },
+        {
+          "client_id": "501907035879-0kcrtjlfp0s28b8a31a1s5t30umn4ve5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3ovNfM2qpE92JZc8uwluDPeAkeIwPHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501907035879-0kcrtjlfp0s28b8a31a1s5t30umn4ve5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
